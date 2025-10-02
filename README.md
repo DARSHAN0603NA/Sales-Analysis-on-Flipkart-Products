@@ -26,4 +26,3 @@ The dashboard was created using a **Power BI Template (.pbit)** so that users ca
 
 
 
-## 📁 Repository Structure  
